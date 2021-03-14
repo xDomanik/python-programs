@@ -20,7 +20,7 @@ while True:
 # Gets random number between two ranges: lower & upper
 correctNum =  random.randrange(lower, high + 1 )
 
-# Core Functions
+# Core Function
 def userGuess(correctNum):
     """ Accepts user guess and compares with correct num"""
 
