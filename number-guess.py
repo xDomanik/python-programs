@@ -53,5 +53,4 @@ def printMessage(userGuess, correctNum, name, modifier):
         output = f"{name}, Please try again! your guess is too high\n"
         return output
 
-
 print(userGuess(correctNum))
